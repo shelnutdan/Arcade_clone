@@ -12,7 +12,7 @@ Also, after every five levels a new enemy is randomly spawned, and after every t
 - HTML
 - CSS 
 - JavaScripts (ES5 & and Object Oriented Programming topics)
--HTML5 Canvas
+- HTML5 Canvas
 ## Clone this repo
 ```
 $git clone https://github.com/shelnutdan/Arcade_clone.git
