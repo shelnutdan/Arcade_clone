@@ -5,6 +5,9 @@ the enemey bugs. If you reach the water you proceed to the next level and and ea
 If you lose all three of your lives you are displayed a game over modal that displays at the bottom. You are given your score for this round of playing and you can choose to play again.
 Also, after every five levels a new enemy is randomly spawned, and after every ten levels you gain an extra life. There is no time limit and there is no max level. So try to get as high a score as possible.
 
+## Demo
+[Live Demo](http://freezing-company.surge.sh/)
+
 ## Skills used
 - HTML
 - CSS 
